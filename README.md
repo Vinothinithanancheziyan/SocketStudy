@@ -80,7 +80,11 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 ## OUTPUT:
+CLIENT 
+![Image](https://github.com/user-attachments/assets/779b6481-8375-4e48-8686-c23bebd46fb3)
 
+SERVER 
+![Image](https://github.com/user-attachments/assets/f6e2b588-d044-40fa-836a-aefa7f915109)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
